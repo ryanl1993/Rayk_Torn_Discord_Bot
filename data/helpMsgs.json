@@ -1,0 +1,17 @@
+{
+  "helpMsg1": [
+    "`settings`, `softban`, `ban`, `hackban`, `unban`, `kick`, `mute`, `tempmute`, `warn`, `clearwarns`, `warns`, `lockdown`, `timedlockdown`, `unlockdown`, `addrole`, `removerole`, `votekick`, `rename`, `purge`"
+    ],
+  "helpMsg3": [
+    "`dadjoke`, `copypasta`, `roll`, `rps`, `8ball`, `coinflip`, `gamble`, `urban`, `advice`, `triggered`, `credits`, `say`"
+  ],
+  "helpMsg4": [
+    "`about`,  `avatar`, `ping`, `serverinfo`, `uptime`, `bug`, `suggest`, `invite`, `user`, `stats`, `coins`, `vote`,  `timer`, `colorsearch`, `duckduckgo`"
+  ],
+  "helpMsg5": [
+    "`kiss`, `tickle`, `smug`, `poke`, `spank`, `cuddle`, `feed`, `baka`, `slap`, `smack`, `punch`, `hammer`, `fight`"
+  ],
+  "helpMsg7": [
+    "`eval`, `exec`, `reload`, `shutdown`, `blacklist`, `unblacklist`, `leave`"
+  ]
+}
